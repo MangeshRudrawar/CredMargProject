@@ -1,0 +1,13 @@
+.list {
+    margin: 20px 0;
+  }
+  
+  .list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
